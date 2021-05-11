@@ -1,0 +1,7 @@
+Tipo dos datasets: 
+
+ 1 a 9 - sem vazamento
+ 10 a 12 - dia inteiro - nó 12
+ 13 a 15 - meio dia - nó 12
+ 16 a 18 - dia inteiro - nó 14 
+ 19 a 21 - meio dia - nó 14
